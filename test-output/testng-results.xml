@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222324.png'height="500" width="1200"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222327.png'height="500" width="1200"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222329.png'height="500" width="1200"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222331.png'height="500" width="1200"/>]]>
+    </line>
+    <line>
+      <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222333.png'height="500" width="1200"/>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-15T22:23:17 WIB" name="Default suite" finished-at="2022-06-15T22:23:33 WIB" duration-ms="15444">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T22:23:17 WIB" name="Default test" finished-at="2022-06-15T22:23:33 WIB" duration-ms="15444">
+      <class name="com.nexsoft.cicool.TestLoginFunctionality">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:17 WIB" name="init" finished-at="2022-06-15T22:23:21 WIB" duration-ms="3139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:21 WIB" name="cekSession" finished-at="2022-06-15T22:23:21 WIB" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLogin_with_Valid_User_and_Password()[pri:1, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:21 WIB" name="testLogin_with_Valid_User_and_Password" finished-at="2022-06-15T22:23:24 WIB" duration-ms="2646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222324.png'height="500" width="1200"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin_with_Valid_User_and_Password -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:24 WIB" name="cekSession" finished-at="2022-06-15T22:23:24 WIB" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLogin_With_ValidUser_and_WrongPassword()[pri:2, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:24 WIB" name="testLogin_With_ValidUser_and_WrongPassword" finished-at="2022-06-15T22:23:27 WIB" duration-ms="2478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222327.png'height="500" width="1200"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin_With_ValidUser_and_WrongPassword -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:27 WIB" name="cekSession" finished-at="2022-06-15T22:23:27 WIB" duration-ms="413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLogin_With_WrongValid_User_and_ValidPassword()[pri:3, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:27 WIB" name="testLogin_With_WrongValid_User_and_ValidPassword" finished-at="2022-06-15T22:23:29 WIB" duration-ms="1829" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222329.png'height="500" width="1200"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin_With_WrongValid_User_and_ValidPassword -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:29 WIB" name="cekSession" finished-at="2022-06-15T22:23:29 WIB" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testLogin_With_Null_User_and_Password()[pri:4, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:29 WIB" name="testLogin_With_Null_User_and_Password" finished-at="2022-06-15T22:23:31 WIB" duration-ms="1710" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222331.png'height="500" width="1200"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLogin_With_Null_User_and_Password -->
+        <test-method is-config="true" signature="cekSession()[pri:0, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:31 WIB" name="cekSession" finished-at="2022-06-15T22:23:31 WIB" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cekSession -->
+        <test-method signature="testForgot_Password()[pri:5, instance:com.nexsoft.cicool.TestLoginFunctionality@73e9cf30]" started-at="2022-06-15T22:23:31 WIB" name="testForgot_Password" finished-at="2022-06-15T22:23:33 WIB" duration-ms="1391" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<img src='file://C:\nexsoft\Day20_CicoolPOM_Tugas\screenshot\20220615_222333.png'height="500" width="1200"/>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testForgot_Password -->
+      </class> <!-- com.nexsoft.cicool.TestLoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
